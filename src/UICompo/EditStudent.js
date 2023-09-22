@@ -4,7 +4,7 @@ import { useSelector } from "react-redux/es/hooks/useSelector"
 import { useDispatch } from "react-redux";
 import { useNavigate } from "react-router-dom";
 import { useState } from "react";
-import { Edit,Add } from "../Slice/SliceCompo";
+import { Edit } from "../Slice/SliceCompo";
 
 
 function EditStudent(){
